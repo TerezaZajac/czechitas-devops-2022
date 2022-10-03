@@ -61,7 +61,7 @@ zodpovězte uvedené otázky.
 
 ### 2d) Změňte skupinu souboru tygr.txt na sudo.
 
-![image info](01/2d.png)
+![image info](01/2dfix.png)
 
 
 
