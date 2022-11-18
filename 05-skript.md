@@ -5,4 +5,5 @@ Napište skript backup, který zálohuje vybraný soubor. Skript
 Uložte skript do /usr/local/bin, aby byl spustitelný odkudkoliv a
 měli k němu přístup všichni uživatelé.
 
-![image info](/Users/user/Desktop/programovani/git/czechitas-devops-2022/05/01.png)
+
+![image info](/05/01.png)
